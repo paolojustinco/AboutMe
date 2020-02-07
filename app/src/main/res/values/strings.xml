@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Paolo Justin Co</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi, my name is Paolo.
+    \n\nI am a BS Computer Science student form the University of the Philippines Los Banos
+    \n\nI enrolled in this course because I someday I want to develop my own app, or system that would be very useful and ground-braking for users, to make their lives easier and more convenient.
+    \n\nI also dream of going in to the Motorsport scene in the future and be able to participate in different racing events around the Philippines and also worldwide.
+    \n\nMy interests include: Computers, Mobile Phones, Technology, Cars, Biking and many more.
+    </string>
+</resources>
